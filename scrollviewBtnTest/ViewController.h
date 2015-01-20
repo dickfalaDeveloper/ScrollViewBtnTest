@@ -8,7 +8,10 @@
 
 #import <UIKit/UIKit.h>
 
-@interface ViewController : UIViewController
+@interface ViewController : UIViewController<UIScrollViewDelegate>
+
+@property (weak, nonatomic) IBOutlet UIView *contentVW;
+@property (weak, nonatomic) IBOutlet UIScrollView *sclVW;
 
 
 @end
