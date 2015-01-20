@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>IDESourceControlProjectFavoriteDictionaryKey</key>
+	<false/>
+	<key>IDESourceControlProjectIdentifier</key>
+	<string>14356AD7-9975-4A82-9E93-1E4D2876539D</string>
+	<key>IDESourceControlProjectName</key>
+	<string>scrollviewBtnTest</string>
+	<key>IDESourceControlProjectOriginsDictionary</key>
+	<dict>
+		<key>D30B97B9F9B156FEA59938AFAE22491DBCE6441D</key>
+		<string>https://github.com/dickfalaDeveloper/ScrollViewBtnTest.git</string>
+	</dict>
+	<key>IDESourceControlProjectPath</key>
+	<string>scrollviewBtnTest.xcodeproj</string>
+	<key>IDESourceControlProjectRelativeInstallPathDictionary</key>
+	<dict>
+		<key>D30B97B9F9B156FEA59938AFAE22491DBCE6441D</key>
+		<string>../..</string>
+	</dict>
+	<key>IDESourceControlProjectURL</key>
+	<string>https://github.com/dickfalaDeveloper/ScrollViewBtnTest.git</string>
+	<key>IDESourceControlProjectVersion</key>
+	<integer>111</integer>
+	<key>IDESourceControlProjectWCCIdentifier</key>
+	<string>D30B97B9F9B156FEA59938AFAE22491DBCE6441D</string>
+	<key>IDESourceControlProjectWCConfigurations</key>
+	<array>
+		<dict>
+			<key>IDESourceControlRepositoryExtensionIdentifierKey</key>
+			<string>public.vcs.git</string>
+			<key>IDESourceControlWCCIdentifierKey</key>
+			<string>D30B97B9F9B156FEA59938AFAE22491DBCE6441D</string>
+			<key>IDESourceControlWCCName</key>
+			<string>scrollviewBtnTest</string>
+		</dict>
+	</array>
+</dict>
+</plist>
